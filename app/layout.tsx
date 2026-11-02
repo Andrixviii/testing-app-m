@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Plus_Jakarta_Sans } from "next/font/google";
 import "./globals.css";
 
-// Dirancang di Jakarta; angka tabular-nya rapi untuk kolom nominal.
+// Dirancang di Jakarta; angka tabular-nya rapi untuk kolom nominal
 const jakarta = Plus_Jakarta_Sans({
   variable: "--font-jakarta",
   subsets: ["latin"],
